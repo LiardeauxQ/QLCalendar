@@ -7,13 +7,13 @@ Its aim is to give you the possibility to add Calendar views and manage date in 
 
 ## How to install
 
-You need to use cocoapods or add sources files directly in your project.
+You can add source files directly in your project or use cocapods, see below:
 
 ```
 pod init
 ```
 
-In podfile insert:
+In podfile, insert:
 ```
 platform :ios, '12.0'
 
